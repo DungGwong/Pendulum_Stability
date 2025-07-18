@@ -1,2 +1,2 @@
 # Pendulum_Stability
-Our Project for NCSU Gears Project
+Our Project for NCSU Gears Program
